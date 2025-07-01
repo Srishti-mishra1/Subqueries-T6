@@ -1,1 +1,2 @@
 # Subqueries-T6
+For this task I took two tables students and marks. Both had certain entries where more number of entries was there in the marks table considering more than one subject. The purpose of considering more than one subject was for several types of queries that could be possible. And then I calculated various things like highest marks, person securing highest marks, subject having highest average and also the rank of the students. So this sums up this section.
